@@ -1,3 +1,6 @@
+//T:O(n^2)
+//S:O(1)
+
 public class ContainerWithMostWater_BruteForce {
     
         public static int maxArea(int[] height) {

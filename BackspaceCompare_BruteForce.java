@@ -1,3 +1,5 @@
+//T:O(a+b)
+//S:O(a+b)
 import java.util.Stack;
 
 public class BackspaceCompare_BruteForce {

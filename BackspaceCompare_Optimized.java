@@ -1,3 +1,5 @@
+//T:O(a+b)
+//S:O(1)
 public class BackspaceCompare_Optimized {
     public static boolean backspaceCompare(String s, String t) {
         int ptr1 = s.length() - 1;

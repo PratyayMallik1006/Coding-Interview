@@ -15,6 +15,7 @@ In this repository I will be sharing the code solutions for leetcode problems
 | # | Title | Brute Forece Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Java Brute Force](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/BackspaceCompare_BruteForce.java) <br> [Java Optimized](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/BackspaceCompare_Optimized.java)|Easy
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java Brute Force](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/LongestSubstring_BruteForce.java) <br> [Java Optimized](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/LongestSubstring_Optimized.java)|Medium
 
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java Brute Force]() <br> [Java Optimized]()|Hard
 

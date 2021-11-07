@@ -16,6 +16,12 @@ In this repository I will be sharing the code solutions for leetcode problems
 |---| ----- | -------- | ---------- |
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Java Brute Force](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/BackspaceCompare_BruteForce.java) <br> [Java Optimized](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/BackspaceCompare_Optimized.java)|Easy
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java Brute Force](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/LongestSubstring_BruteForce.java) <br> [Java Optimized](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/LongestSubstring_Optimized.java)|Medium
+|125|[valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java 2 pointer from center](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/ValidPalindrome_2PtrCenter.java) <br> [Java 2 pointer from outside](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/ValidPalindrome_2PtrOutside.java) <br> [Java compare against reverse](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/ValidPalindrome_CompareRev.java)|Easy
+|680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/submissions/)|[Java](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/AlmostPalindrome.java) |Easy
+
+## Linked Lists
+| # | Title | Brute Forece Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java Brute Force]() <br> [Java Optimized]()|Hard
 

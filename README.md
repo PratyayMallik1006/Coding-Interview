@@ -24,7 +24,7 @@ In this repository I will be sharing the code solutions for leetcode problems
 |---| ----- | -------- | ---------- |
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Java](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Linked%20Lists/mnReversal.java)|Medium
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)| [Java](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Linked%20Lists/ListFlatten.java)|Medium
-
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java Hash set](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Linked%20Lists/ListDetectCycle_HashSet.java) <br> [Java Floyd’s Tortoise and Hare](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Linked%20Lists/ListDetectCycle_Fastslow.java)|Medium
 
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java Brute Force]() <br> [Java Optimized]()|Easy
 

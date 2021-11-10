@@ -32,6 +32,11 @@ In this repository I will be sharing the code solutions for leetcode problems
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Stack/ValidParentheses.java)|Easy
 |1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Java](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Stack/MakeValidParentheses.java)|Medium
 
+## Queues
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Queues/QueueUsingStack.java)|Easy
+
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java Brute Force]() <br> [Java Optimized]()|Easy
 
 

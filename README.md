@@ -38,6 +38,23 @@ In this repository I will be sharing the code solutions for leetcode problems
 |---| ----- | -------- | ---------- |
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Queues/QueueUsingStack.java)|Easy
 
+## Recursion
+### Sorting
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Java Hoare's QuickSelect](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/sorting/KthLargestOptimized.java)|Medium
+
+### Binary Search
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|34|[Find First and Last Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Binary_Search/FirrstLastPos.java)|Medium
+
+## Binary Tree
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Binary_Tree/MaxDept.java)|Easy
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Binary_Tree/LevelOrder.java)|Medium
+
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java Brute Force]() <br> [Java Optimized]()|Easy
 
 

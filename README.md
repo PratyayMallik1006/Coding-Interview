@@ -54,7 +54,7 @@ In this repository I will be sharing the code solutions for leetcode problems
 |---| ----- | -------- | ---------- |
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Binary_Tree/MaxDept.java)|Easy
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Binary_Tree/LevelOrder.java)|Medium
-|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [Java BFS](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Binary_Tree/RightViewBFS.java) <br> [Java DFS]()|Medium
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [Java BFS](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Binary_Tree/RightViewBFS.java) <br> [Java DFS](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Binary_Tree/RightViewDFS.java)|Medium
 
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java Brute Force]() <br> [Java Optimized]()|Easy
 

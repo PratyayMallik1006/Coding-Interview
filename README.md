@@ -57,6 +57,8 @@ In this repository I will be sharing the code solutions for leetcode problems
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Binary_Tree/LevelOrder.java)|Medium
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [Java BFS](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Binary_Tree/RightViewBFS.java) <br> [Java DFS](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Binary_Tree/RightViewDFS.java)|Medium
 
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java Brute Force]() <br> [Java Optimized]()|Easy
-
+## Dynamic Programming
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Java Bottom Up](https://github.com/PratyayMallik1006/Coding-Interview/blob/main/Dynamic%20Programming/MinCostClimbingStairs_BottomUp.java)|Easy
 
